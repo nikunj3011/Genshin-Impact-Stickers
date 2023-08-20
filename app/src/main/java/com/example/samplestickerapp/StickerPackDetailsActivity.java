@@ -104,7 +104,7 @@ public class StickerPackDetailsActivity extends BaseActivity {
         });
         AdRequest adRequest = new AdRequest.Builder().build();
 
-        InterstitialAd.load(this,"ca-app-pub-8299128249632072/1648534068", adRequest,
+        InterstitialAd.load(this,"ca-app-pub-8299128249632072/3094607940", adRequest,
                 new InterstitialAdLoadCallback() {
                     @Override
                     public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {

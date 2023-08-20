@@ -10,7 +10,7 @@ android {
     }
     compileSdkVersion 32
     defaultConfig {
-        applicationId "com.nikunj.GenshinImpactStickers"
+        applicationId "com.nikunj.GenshinImpactSticker"
         minSdkVersion 19
         targetSdkVersion 32
         versionCode 2

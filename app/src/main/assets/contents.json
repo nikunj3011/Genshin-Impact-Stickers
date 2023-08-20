@@ -3,7 +3,7 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "Set1",
+      "identifier": "GSet1",
       "name": "Genshin Impact",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "identifier": "Set2",
+      "identifier": "GSet2",
       "name": "Genshin Impact 2",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "identifier": "Set3",
+      "identifier": "GSet3",
       "name": "Genshin Impact 3",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "identifier": "Set4",
+      "identifier": "GSet4",
       "name": "Genshin Impact 4",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "identifier": "Set5",
+      "identifier": "GSet5",
       "name": "Genshin Impact 5",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
@@ -623,7 +623,7 @@
       ]
     },
     {
-      "identifier": "Set6",
+      "identifier": "GSet6",
       "name": "Genshin Impact 6",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
@@ -747,7 +747,7 @@
       ]
     },
     {
-      "identifier": "Set7",
+      "identifier": "GSet7",
       "name": "Genshin Impact 7",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "identifier": "Set8",
+      "identifier": "GSet8",
       "name": "Genshin Impact 8",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "identifier": "Set9",
+      "identifier": "GSet9",
       "name": "Genshin Impact 9",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
@@ -1119,7 +1119,7 @@
       ]
     },
     {
-      "identifier": "Set10",
+      "identifier": "GSet10",
       "name": "Genshin Impact 10",
       "publisher": "Nikunj Rathod",
       "tray_image_file": "tray_paimon.png",
