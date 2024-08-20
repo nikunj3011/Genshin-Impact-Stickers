@@ -8,13 +8,13 @@ android {
             keyPassword '123'
         }
     }
-    compileSdkVersion 32
+    compileSdkVersion 34
     defaultConfig {
         applicationId "com.nikunj.GenshinImpactSticker"
-        minSdkVersion 19
-        targetSdkVersion 32
-        versionCode 2
-        versionName "2"
+        minSdkVersion 21
+        targetSdkVersion 34
+        versionCode 7
+        versionName "7"
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
@@ -43,6 +43,7 @@ android {
     androidResources {
         noCompress 'webp'
     }
+    namespace 'com.example.samplestickerapp'
 }
 
 task checkDebug {
